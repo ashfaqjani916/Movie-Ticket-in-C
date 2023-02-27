@@ -262,7 +262,8 @@ void bookticket()
             }
             for(i=0;i<tm*2;i++){
                 fprintf(film,"%d ",arr[i]);
-            }
+            }//hahahas
+            
             break;
         }
         default:
