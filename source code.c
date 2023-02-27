@@ -284,4 +284,5 @@ void bookticket()
     fclose(fp);
     fclose(fpp);
     fclose(film);
+    printf("HEllo");
 }
